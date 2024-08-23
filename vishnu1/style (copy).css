@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+h1{
+
+
+    text-align: center;
+    text-align: right;
+    text-align: left;
+}
+
+span{
+    text-align: center;
+    font-size: larger;
+
+    text-decoration: underline;
+    text-decoration: over line;
+    text-decoration: line-through;
+
+    font-weight: bold;
+    font-weight: bolder;
+    font-weight: 400;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font size:30px;
+
+
+}
+}
